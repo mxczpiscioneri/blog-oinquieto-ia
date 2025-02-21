@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
+    "title": "IA | O Inquieto",
     "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -8,7 +8,7 @@
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": "O Inquieto"
   },
 
   "settings": {
@@ -17,19 +17,20 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_author": "O Inquieto",
+    "meta_image": "/images/author.png",
+    "meta_description": "IA | O Inquieto"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2025 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2025"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
+    "address": "Ribeirão Preto - SP",
+    "email": "contato@oinquieto.com.br",
     "phone": "+800 567 1234"
+
   }
 }

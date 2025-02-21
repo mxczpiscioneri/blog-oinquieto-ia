@@ -70,7 +70,7 @@ export default function SearchBar({ searchList }: Props) {
     <div className="min-h-[45vh]">
       <input
         className="form-input w-full text-center"
-        placeholder="Type here to Search posts"
+        placeholder="Digite para pesquisar..."
         type="text"
         name="search"
         value={inputVal}
@@ -82,11 +82,11 @@ export default function SearchBar({ searchList }: Props) {
 
       {inputVal.length > 1 && (
         <div className="my-6 text-center">
-          Found {searchResults?.length}
+          Encontrado {searchResults?.length}
           {searchResults?.length && searchResults?.length === 1
-            ? " result"
-            : " results"}{" "}
-          for '{inputVal}'
+            ? " resultado"
+            : " resultados"}{" "}
+          para '{inputVal}'
         </div>
       )}
 

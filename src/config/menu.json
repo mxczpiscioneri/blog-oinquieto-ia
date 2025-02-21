@@ -5,56 +5,25 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Sobre",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Contato",
       "url": "/contact"
-    },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
-        }
-      ]
     }
   ],
   "footer": [
     {
-      "name": "About",
+      "name": "Sobre",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Contato",
       "url": "/contact"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Privacy Policy",
+      "name": "Política de privacidade",
       "url": "/privacy-policy"
     }
   ]

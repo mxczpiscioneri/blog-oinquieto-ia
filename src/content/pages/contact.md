@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contato"
 meta_title: ""
 draft: false
 ---
